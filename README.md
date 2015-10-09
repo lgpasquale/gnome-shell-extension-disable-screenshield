@@ -5,7 +5,7 @@
 ![Disable Gnome Screen Shield](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_672.png)
 
 **1. Disable Screen Lock**  
-  `Gnome settings` → `Privacy` → `Screen Lock` → `Off`
+  `Gnome settings` → `Privacy` → `Screen Lock` → Off
   
 **2. Download this extension**
 ```sh
