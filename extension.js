@@ -7,17 +7,11 @@ function _onUserBecameActiveInjected()
     this.idleMonitor.remove_watch(this._becameActiveId);
     this._becameActiveId = 0;
 
-    let lightboxWasShown = this._longLightbox.shown || this._shortLightbox.shown;
     this._longLightbox.hide();
     this._shortLightbox.hide();
 
-    // Shortcircuit in case the mouse was moved before the fade completed
-    // or the screen is not locked
-    if (!lightboxWasShown || !this._isLocked)
-    {
-        this.deactivate(false);
-        return;
-    }
+    this.deactivate(false);
+    return;
 }
 
 function init()
