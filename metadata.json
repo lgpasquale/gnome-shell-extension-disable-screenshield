@@ -1,4 +1,5 @@
 {
+    "extension-id": "disable-screenshield",
     "shell-version": [
         "3.10",
         "3.12", 
@@ -8,5 +9,6 @@
     ],
     "uuid": "disable-screenshield@lgpasquale.com",
     "name": "Disable Screen Shield",
+    "url": "https://github.com/lgpasquale/gnome-shell-extension-disable-screenshield",
     "description": "Disable screen shield when screen lock is disabled"
 }

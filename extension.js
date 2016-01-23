@@ -11,7 +11,6 @@ function _onUserBecameActiveInjected()
     this._shortLightbox.hide();
 
     this.deactivate(false);
-    return;
 }
 
 function init()
