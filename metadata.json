@@ -2,11 +2,12 @@
     "extension-id": "disable-screenshield",
     "shell-version": [
         "3.10",
-        "3.12", 
-        "3.14", 
-        "3.16", 
+        "3.12",
+        "3.14",
+        "3.16",
         "3.18",
-        "3.20"
+        "3.20",
+        "3.22"
     ],
     "uuid": "disable-screenshield@lgpasquale.com",
     "name": "Disable Screen Shield",
