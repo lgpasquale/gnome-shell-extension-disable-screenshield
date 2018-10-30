@@ -21,4 +21,4 @@ Install from [GNOME Shell Extensions](https://extensions.gnome.org/extension/672
   Press `ALT + F2` then enter `r` and press `Enter`.
   
 **4. Activate this extension**  
-  `Tweak Tool` → `Extension` → `Disable Screen Lock` → On
+  `Tweak Tool` → `Extension` → `Disable Screen shield` → On
